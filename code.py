@@ -1,5 +1,5 @@
 # Write your code here
-# Comments added
+
 """
 print('''
 Starting to make a coffee
@@ -141,6 +141,6 @@ def main():  # its not a main function, the real main function is below this fun
     else:
         pass
 
-
+# Comments
 while True:  # our main function (❁´◡`❁)
     main()
