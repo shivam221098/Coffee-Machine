@@ -142,5 +142,5 @@ def main():  # its not a main function, the real main function is below this fun
         pass
 
 # Comments
-while True:  # our main function (❁´◡`❁)
+while True:  # our main function 
     main()
